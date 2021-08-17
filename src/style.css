@@ -11,7 +11,17 @@ a {
 }
 
 img {
-  border-radius: 4px;
-  max-width: 300px;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
   padding-bottom: 40px;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: rgb(204, 31, 138);
 }
